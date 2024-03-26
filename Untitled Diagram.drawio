@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T05:13:21.880Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="vwF1TFE6immUIqA7esSw" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-26T05:15:36.540Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="7WllZqByjMWWplXLN9B4" version="23.1.6" type="github">
   <diagram name="Page-1" id="sACsTCeDd_Et6IisknRS">
     <mxGraphModel dx="880" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,8 +7,17 @@
         <mxCell id="no28YzW2g3oVM7ufs7Dy-1" value="Navigation bar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="450" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="no28YzW2g3oVM7ufs7Dy-3" value="Navigation bar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
-          <mxGeometry x="130" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="no28YzW2g3oVM7ufs7Dy-6" value="College Catalogue" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="225" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="no28YzW2g3oVM7ufs7Dy-7" value="College History" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="375" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="no28YzW2g3oVM7ufs7Dy-8" value="Programs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="525" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="no28YzW2g3oVM7ufs7Dy-9" value="Best Practices &amp;amp; achievements" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="675" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
